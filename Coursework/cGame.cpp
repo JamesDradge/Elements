@@ -371,6 +371,7 @@ void cGame::update(double deltaTime)
 					strScore = gameTextList[1] + to_string(score);
 					theTextureMgr->deleteTexture("Score");
 					cout << "Player score: " << strScore << endl;
+					//yooooo
 					
 				}
 
